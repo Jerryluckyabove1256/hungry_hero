@@ -1,0 +1,29 @@
+dmx-serverconnect {
+display: none
+}
+
+html {
+height:100%;
+}
+
+body {
+height:100%;
+}
+
+#Desktop_div {
+height:100%;
+}
+
+w-include {
+height:0px !important;
+}
+
+._315_250 {
+display:flex;
+justify-content:center;
+align-items:center;
+flex-direction:column;
+height:100%;
+border-radius:20.0px;
+}
+
